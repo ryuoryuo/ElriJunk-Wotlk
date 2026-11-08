@@ -1,0 +1,10 @@
+## Interface: 30300
+## Title: ElriJunk
+## Notes: Automatically sells junk and remembers sell/delete marks.
+## Notes-ruRU: Автопродажа хлама и постоянные метки продажи и удаления.
+## Author: Elri
+## Version: 1.0.8
+## SavedVariables: ElriJunkDB
+## OptionalDeps: ArkInventory
+
+ElriJunk.lua
